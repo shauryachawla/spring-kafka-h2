@@ -1,0 +1,7 @@
+.*
+!/.gitignore
+*.db
+*.class
+target/
+data/
+mvn*
